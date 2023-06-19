@@ -1,0 +1,4 @@
+USE STUDENT;
+INSERT INTO personal (ID,NAME,BIRTH_DATE,PHONE,GENDER);
+values(2,"ankita","1998-05-05","8086747676","F");
+

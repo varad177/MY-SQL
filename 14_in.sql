@@ -1,0 +1,1 @@
+-- SELECT ename from empl WHERE eno in (7698,7844);

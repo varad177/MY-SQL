@@ -1,0 +1,1 @@
+delete from empl where eno = 7934;
